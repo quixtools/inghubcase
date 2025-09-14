@@ -1,6 +1,8 @@
 # Employee Management Application
 Frontend Case Study for ING Hubs Turkey
 
+*For easier testing, I commented out the employee list data in the file named "src/data/employee-list.js". You can remove it if needed.*
+
 ## Tech Stack
 
 - Lit
